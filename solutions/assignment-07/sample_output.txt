@@ -1,0 +1,9 @@
+Enter source vertex :2
+         Vertex      Min. Distance      Shortest Path
+              0                 10      2-1-3-0
+              1                  1      2-1
+              2                  0      2
+              3                  5      2-1-3
+              4                  3      2-4
+              5           infinite      unreachable
+
