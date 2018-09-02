@@ -1,0 +1,4 @@
+String 1: aaaagvfuherlfkmlogjrhnjglermnhldtynjoigmkrfbnrfglbmngflbmn
+String 2: hcblbknmugrkrtlkbndfkjvjnkgmndbgfmbfgmbfgbnfgjbnfgkjbgfjk
+Output :23(hlkmgrnjgmndgmfbfgbnfbn)
+
