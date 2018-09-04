@@ -1,0 +1,4 @@
+The topological order of the vertices are: 
+
+6-3-4-0-1-7-2-5
+
