@@ -66,7 +66,7 @@ int main(int argc, char *argv[])
     }
     else
     {
-			int v, e, **graph, i, j, v1, v2, w;
+			int v, e, **graph, i, j, v1, v2, w = 1;
 			fscanf(fp, "%d %d\n", &v, &e);
 			graph = malloc(v*sizeof(*graph));
 			for(i=0; i<v; i++)
@@ -82,7 +82,7 @@ int main(int argc, char *argv[])
 			}
 			for(i = 0; i<e; i++)
 			{
-				fscanf(fp, "%d %d %d\n", &v1, &v2, &w);
+				fscanf(fp, "%d %d\n", &v1, &v2);
 				graph[v1][v2]=w;
 			}
 			int discoverytime[v], finishtime[v];
